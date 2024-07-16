@@ -3,4 +3,4 @@ Bu veri seti [Dr. Nesibe YALÇIN](https://avesis.erciyes.edu.tr/nesibeyalcin) da
 
 Orjinal TRCS_8_SET veri setinin nohut tanelerini içerecek şekilde kırpılmış halidir. Orjinal hali istenilmesi halinde ibrahimkilic85@gmail.com adresi aracılığıyla talep edilebilir.
 
-Veri Seti : 
+Veri Seti : https://drive.google.com/drive/folders/1uUp8lWAtJX95nhmL3bpl4w-6fTqe4QzJ?usp=drive_link
